@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name		 steam link regular
-// @description	 regular links with end /[appid]/ & print at console
-// @author		 desc_inno
-// @namespace	 https://github.com/desc70865/steam-link-regular
+// @name         steam link regular
+// @description  regular links with end /[appid]/ & print at console
+// @author       desc_inno
+// @namespace    https://github.com/desc70865/steam-link-regular
 // @supportURL   https://github.com/desc70865/steam-link-regular/issues
 // @updateURL    https://github.com/desc70865/steam-link-regular/raw/master/steam-link-regular.user.js
-// @version		 0.7
-// @icon		 https://keylol.com/favicon.ico
-// @match		 https://keylol.com/*
-// @require		 https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js
+// @version      0.7
+// @icon         https://keylol.com/favicon.ico
+// @match        https://keylol.com/*
+// @require      https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js
 // ==/UserScript==
 
 (function() {
