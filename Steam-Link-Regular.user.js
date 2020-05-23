@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         steam link regular
+// @name         Steam Link Regular
 // @description  regular links with end /[appid]/ & print at console
 // @author       desc_inno
-// @namespace    https://github.com/desc70865/steam-link-regular
-// @supportURL   https://github.com/desc70865/steam-link-regular/issues
-// @updateURL    https://github.com/desc70865/steam-link-regular/raw/master/steam-link-regular.user.js
+// @namespace    https://github.com/desc70865/Steam-Link-Regular
+// @supportURL   https://github.com/desc70865/Steam-Link-Regular/issues
+// @updateURL    https://github.com/desc70865/Steam-Link-Regular/raw/master/Steam-Link-Regular.user.js
 // @version      0.7
 // @icon         https://keylol.com/favicon.ico
 // @match        https://keylol.com/*
